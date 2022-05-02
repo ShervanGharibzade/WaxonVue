@@ -1,0 +1,32 @@
+export default [
+    {
+        type:'youtube',
+        url:'https://waxon.ibthemespro.com/img/6.951cc0d8.jpg',
+        name:'image1'
+    },
+    {
+        type:'youtube',
+        url:'https://waxon.ibthemespro.com/img/5.b65523ce.jpg',
+        name:'image2'
+    },
+    {
+        type:'vimeo',
+        url:'https://waxon.ibthemespro.com/img/4.1af8bc07.jpg',
+        name:'image3'
+    },
+    {
+        type:'vimeo',
+        url:'https://waxon.ibthemespro.com/img/2.9207e75e.jpg',
+        name:'image4'
+    },
+    {
+        type:'mix',
+        url:'https://waxon.ibthemespro.com/img/1.f6567a3a.jpg',
+        name:'image5'
+    },
+    {
+        type:'mix',
+        url:'https://waxon.ibthemespro.com/img/3.b6b7ad1d.jpg',
+        name:'image6'
+    }
+]
