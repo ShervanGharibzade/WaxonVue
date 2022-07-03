@@ -1,8 +1,8 @@
 # waxonvue
 
-Waxonvue is project about disngers and build with vue and tailwindcss , lightbox , swiper , vuescroll.
+Waxonvue is project about disgners and build with vue and tailwindcss , lightbox , swiper , vuescroll.
 it's spa page , i use vuex for calling personnal data ,
-adn tailwindcss use for styling and responsive with help lightbox in gallery and swiper on carousel , vuescroll for  
+and tailwindcss use for styling and responsive with help lightbox in gallery and swiper on carousel , vuescroll for  
 
 
 ## Project setup
