@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42fbbdf0-072c-438b-ae81-a98e3dbede7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/css/app.b85169dc.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.b85169dc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/1.69be311d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.69be311d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/2.48275f77.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/2.48275f77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/loading.99fd1e91.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/loading.99fd1e91.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.1d1ec18a.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.1d1ec18a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.1d1ec18a.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.1d1ec18a.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.43df9ba2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-vendors.43df9ba2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.43df9ba2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-vendors.43df9ba2.js.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29XQtnDH5DNY0eLbhv6PjYXkUOz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42fbbdf0-072c-438b-ae81-a98e3dbede7b" name="Changes" comment="" />
+      <created>1653257172950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653257172950</updated>
+      <workItem from="1653257178262" duration="289000" />
+      <workItem from="1654084319911" duration="506000" />
+      <workItem from="1654702498855" duration="308000" />
+      <workItem from="1654878252023" duration="270000" />
+      <workItem from="1660502389636" duration="761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
